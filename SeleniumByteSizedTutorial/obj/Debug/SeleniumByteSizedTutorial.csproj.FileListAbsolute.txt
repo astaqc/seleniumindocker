@@ -1,0 +1,17 @@
+D:\Astaqc\Selenium\demo\SeleniumByteSizedTutorial\SeleniumByteSizedTutorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Astaqc\Selenium\demo\SeleniumByteSizedTutorial\SeleniumByteSizedTutorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Astaqc\Selenium\demo\SeleniumByteSizedTutorial\SeleniumByteSizedTutorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Astaqc\Selenium\demo\SeleniumByteSizedTutorial\SeleniumByteSizedTutorial\bin\Debug\chromedriver.exe
+D:\Astaqc\Selenium\demo\SeleniumByteSizedTutorial\SeleniumByteSizedTutorial\bin\Debug\chromedriver-license.txt
+D:\Astaqc\Selenium\demo\SeleniumByteSizedTutorial\SeleniumByteSizedTutorial\bin\Debug\SeleniumByteSizedTutorial.dll
+D:\Astaqc\Selenium\demo\SeleniumByteSizedTutorial\SeleniumByteSizedTutorial\bin\Debug\SeleniumByteSizedTutorial.pdb
+D:\Astaqc\Selenium\demo\SeleniumByteSizedTutorial\SeleniumByteSizedTutorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Astaqc\Selenium\demo\SeleniumByteSizedTutorial\SeleniumByteSizedTutorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Astaqc\Selenium\demo\SeleniumByteSizedTutorial\SeleniumByteSizedTutorial\bin\Debug\WebDriver.dll
+D:\Astaqc\Selenium\demo\SeleniumByteSizedTutorial\SeleniumByteSizedTutorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Astaqc\Selenium\demo\SeleniumByteSizedTutorial\SeleniumByteSizedTutorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Astaqc\Selenium\demo\SeleniumByteSizedTutorial\SeleniumByteSizedTutorial\bin\Debug\WebDriver.xml
+D:\Astaqc\Selenium\demo\SeleniumByteSizedTutorial\SeleniumByteSizedTutorial\obj\Debug\SeleniumByteSizedTutorial.csprojAssemblyReference.cache
+D:\Astaqc\Selenium\demo\SeleniumByteSizedTutorial\SeleniumByteSizedTutorial\obj\Debug\SeleniumByteSizedTutorial.csproj.CopyComplete
+D:\Astaqc\Selenium\demo\SeleniumByteSizedTutorial\SeleniumByteSizedTutorial\obj\Debug\SeleniumByteSizedTutorial.dll
+D:\Astaqc\Selenium\demo\SeleniumByteSizedTutorial\SeleniumByteSizedTutorial\obj\Debug\SeleniumByteSizedTutorial.pdb
